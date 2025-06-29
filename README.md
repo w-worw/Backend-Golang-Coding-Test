@@ -34,6 +34,18 @@ Run the API
 ```bash
   go run main.go
 ```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`DB_HOST`
+
+`DB_PORT`
+
+`DB_NAME`
+
+`PORT`
     
 ## API Reference
 
